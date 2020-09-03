@@ -1,4 +1,4 @@
-# Undertale-based-Javascript-site
+# Undertale-themed-Javascript-site
 A Javascript site based on Undertale
 
 As a Javascript school project I created this sites based on the Undertale game replicating some of the animation while narrating a part of the game lore.<br><br>
