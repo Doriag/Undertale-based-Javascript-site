@@ -85,7 +85,7 @@ body{background: black !important;overflow: hidden !important; min-width: 1920px
 
 /*Ruin*/
 #prot2{width: 168px; height: 342px;  background-image: url(../img/ruins/toriel.png);}
-#ruin{background: url(../img/Ruins/Ruins.png);background-size: cover;background-position:left;width: 3260px;height: 1020px}
+#ruin{background: url(../img/ruins/Ruins.png);background-size: cover;background-position:left;width: 3260px;height: 1020px}
 
 /*Past*/
 #past{width:960px;height:525.36px;}
