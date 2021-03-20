@@ -92,7 +92,7 @@ body{background: black !important;overflow: hidden !important; min-width: 1920px
 
 /*Places*/
 	/*Lab*/
-		#lab{background: url(../img/alphyslab/alphyslab.png);background-size: cover;background-position:left;width: 4695px;height: 2355px}
+		#lab{background: url(../img/alphyslab/Alphyslab.png);background-size: cover;background-position:left;width: 4695px;height: 2355px}
 		#sci{width: 269.895px; height: 288.509px;background-image: url(../img/alphyslab/alphy.png);}
 		#robot{width: 506.19px; height: 358.214px; background-image: url(../img/alphyslab/mettaton-01.png);}
 	/*Mountain*/
