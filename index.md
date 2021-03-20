@@ -122,7 +122,7 @@ Buy the game
 <ul>
 <li><a href="https://store.steampowered.com/app/391540"><img src="img/logo/steam.png"></a></li>
 <li><a href="https://www.nintendo.com/games/detail/undertale-switch"><img src="img/logo/switch.png"></a></li>
-<li><a href="https://www.playstation.com/en-us/games/undertale-ps4/"><img src="img/logo/ps.png"></a></li>
+<li><a href="https://store.playstation.com/product/EP3746-CUSA09415_00-CB00000000000084"><img src="img/logo/ps.png"></a></li>
 <li><a href="https://www.microsoft.com/en-us/p/undertale/9n046hwgq4j2"><img src="img/logo/microsoft.png"></a></li>
 </ul>
 </div>
@@ -747,7 +747,7 @@ Buy the game
 			break;
 			case 17:
 			$('#man').fadeIn(2000);
-			torSpeak('When you life will be put on the line.','normal'); 
+			torSpeak('When your life will be put on the line.','normal'); 
 			nar++;
 			break;
 			case 18:
